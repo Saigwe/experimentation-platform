@@ -38,6 +38,10 @@ python -m experiments.analyze     # writes output/readout.md and charts
 pytest
 ```
 
+## Walkthrough
+
+- [ ] 3-minute Loom walkthrough ([script ready](docs/walkthrough.md))
+
 ## Stack
 
 Python, NumPy, pandas, SciPy, matplotlib, pytest.
